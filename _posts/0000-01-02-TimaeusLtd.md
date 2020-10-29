@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Colourless green ideas sleep furiously
 Use the left arrow to go back!
